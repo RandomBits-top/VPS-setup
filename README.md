@@ -6,7 +6,7 @@ sudo apt-get upgrade
 sudo apt-get install python3-full
 sudo apt-get install joe
 ```
-## Install nodered
+## Install nodered 
 ```
 bash <(curl -sL https://github.com/node-red/linux-installers/releases/latest/download/update-nodejs-and-nodered-deb)
 sudo systemctl enable nodered.service
